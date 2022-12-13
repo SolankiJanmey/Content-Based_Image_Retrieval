@@ -1,6 +1,6 @@
-# global_image_search_v2
+# Content Based Image Retrieval
 
-A new Flutter project.
+Minor Project
 
 ## Getting Started
 
